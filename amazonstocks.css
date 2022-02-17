@@ -1,0 +1,57 @@
+/* I think I am called a comment, so Hello! */
+p
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: #696969;
+}
+
+ol
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #696969;
+}
+
+ul
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #696969;
+}
+
+h1
+{
+    color: #3366FF;
+}
+
+h2
+{
+    color: #3399FF;
+}
+
+h3
+{
+    color: #33CCFF;
+}
+
+#Center
+{
+    text-align: center;
+}
+
+.Center
+{
+    display: table;
+    margin: auto;
+}
+
+#Sources
+{
+    color: rgb(161, 190, 233);
+}
+
+img
+{
+    padding: 2%;
+    margin: 5%;
+    background-color: antiquewhite;
+}
